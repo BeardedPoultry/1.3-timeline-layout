@@ -1,3 +1,16 @@
-.greens {
-  text-color: #fff;
+h2 {
+  color: #fff;
 }
+
+.ricebean {
+  background-color: #6cbfee;
+  background-radius: 5px;
+}
+
+/*
+font-family: lato Calibri, Arial, sans-sarif;
+font-size: 19.2px;
+font-weight: 300;
+
+font-family: Lato, Calibri, Arial, sans-sarif;
+font-size: 24px;
