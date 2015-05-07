@@ -1,0 +1,39 @@
+h2 {
+  color: #fff;
+  font-family: Lato, Calibri, Arial, sans-sarif;
+  font-size: 24px;
+}
+div {
+  font-family: lato Calibri, Arial, sans-sarif;
+  font-size: 19.2px;
+  font-weight: 300;
+}
+
+hr {
+  color: white;
+}
+
+#first  {
+  width: 780px;
+  margin: 20px auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.ricebean {
+  background-color: #6cbfee;
+  background-radius: 5px;
+  color: #fff;
+  padding: 35px;
+}
+
+.greens {
+  background-color: #3594cb;
+  background-radius: 5px;
+  color: #fff;
+  padding: 35px;
+}
+
+.mobile {
+  float: left;
+}
