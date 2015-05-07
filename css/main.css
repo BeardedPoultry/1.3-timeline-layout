@@ -11,9 +11,6 @@ div {
 hr {
   color: white;
 }
-.container {
-  float: right;
-}
 
 #first  {
   width: 780px;
@@ -28,11 +25,14 @@ hr {
   color: #fff;
   padding: 35px;
 }
-#second: {
-}
+
 .greens {
   background-color: #3594cb;
-  color: #fff;
   background-radius: 5px;
+  color: #fff;
   padding: 35px;
+}
+
+.mobile_ic {
+  background-image: url(..img/mobile_icon.png);
 }
