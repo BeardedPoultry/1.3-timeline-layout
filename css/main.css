@@ -34,5 +34,7 @@ hr {
 }
 
 .mobile_ic {
-  background-image: url(..img/mobile_icon.png);
+  background-image: url(../img/mobile_icon.png);
+  width: 30px;
+  height: 30px;
 }
